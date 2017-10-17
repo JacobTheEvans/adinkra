@@ -1,0 +1,223 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "adinkra";
+  src:url("fonts/adinkra.eot");
+  src:url("fonts/adinkra.eot?#iefix") format("embedded-opentype"),
+    url("fonts/adinkra.woff") format("woff"),
+    url("fonts/adinkra.ttf") format("truetype"),
+    url("fonts/adinkra.svg#adinkra") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "adinkra" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "adinkra" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-adinkrahene:before {
+  content: "\61";
+}
+.icon-akofen:before {
+  content: "\62";
+}
+.icon-akokonan:before {
+  content: "\63";
+}
+.icon-akoma-ntoso:before {
+  content: "\64";
+}
+.icon-ananse-ntontan:before {
+  content: "\65";
+}
+.icon-asase-ye-duru:before {
+  content: "\66";
+}
+.icon-fihankra:before {
+  content: "\67";
+}
+.icon-aya:before {
+  content: "\68";
+}
+.icon-fofo:before {
+  content: "\69";
+}
+.icon-bese-saka:before {
+  content: "\6a";
+}
+.icon-funtunfunefu:before {
+  content: "\6b";
+}
+.icon-gye-nyame:before {
+  content: "\6c";
+}
+.icon-bi-nka-bi:before {
+  content: "\6d";
+}
+.icon-boa-me-na-me-mmoa-wo:before {
+  content: "\6e";
+}
+.icon-hwe-mu-dua:before {
+  content: "\6f";
+}
+.icon-hye-won-hye:before {
+  content: "\70";
+}
+.icon-dame-dame:before {
+  content: "\71";
+}
+.icon-denkyem:before {
+  content: "\72";
+}
+.icon-kete-pa:before {
+  content: "\73";
+}
+.icon-kintinkantan:before {
+  content: "\74";
+}
+.icon-duafe:before {
+  content: "\75";
+}
+.icon-dwennimmen:before {
+  content: "\76";
+}
+.icon-eban:before {
+  content: "\77";
+}
+.icon-epa:before {
+  content: "\78";
+}
+.icon-ese-ne-tekrema:before {
+  content: "\79";
+}
+.icon-fawohodie:before {
+  content: "\7a";
+}
+.icon-kwatakye-atiko:before {
+  content: "\41";
+}
+.icon-nsaa:before {
+  content: "\42";
+}
+.icon-owuo-atwedee:before {
+  content: "\43";
+}
+.icon-pempamsie:before {
+  content: "\44";
+}
+.icon-nsoromma:before {
+  content: "\45";
+}
+.icon-mate-masie:before {
+  content: "\46";
+}
+.icon-me-ware-wo:before {
+  content: "\47";
+}
+.icon-sankofa:before {
+  content: "\48";
+}
+.icon-nyame-biribi-wo-soro:before {
+  content: "\49";
+}
+.icon-sesa-wo-suban:before {
+  content: "\4a";
+}
+.icon-nyame-dua:before {
+  content: "\4b";
+}
+.icon-mframadan:before {
+  content: "\4c";
+}
+.icon-mmere-dane:before {
+  content: "\4d";
+}
+.icon-nyame-nnwu-na-mawu:before {
+  content: "\4e";
+}
+.icon-tamfo-bebre:before {
+  content: "\4f";
+}
+.icon-war-hor:before {
+  content: "\50";
+}
+.icon-nyame-nti:before {
+  content: "\51";
+}
+.icon-mmusuyidee:before {
+  content: "\52";
+}
+.icon-mpatopo:before {
+  content: "\53";
+}
+.icon-nyame-ye-ohene:before {
+  content: "\54";
+}
+.icon-wawa-aba:before {
+  content: "\55";
+}
+.icon-wo-nsa-da-mu-a:before {
+  content: "\56";
+}
+.icon-nyansapo:before {
+  content: "\57";
+}
+.icon-mpuannum:before {
+  content: "\58";
+}
+.icon-nea-onnim-no-sua-a-oh:before {
+  content: "\59";
+}
+.icon-odo-nnyew-fie-kwan:before {
+  content: "\5a";
+}
+.icon-woforo-dua-pa-a:before {
+  content: "\30";
+}
+.icon-okodee-mmowere:before {
+  content: "\31";
+}
+.icon-nea-ope-se-obedi-hene:before {
+  content: "\32";
+}
+.icon-nkonsonkonson:before {
+  content: "\33";
+}
+.icon-onyankopon-adom-nti-biribiara-beye-yie:before {
+  content: "\34";
+}
+.icon-osram-ne-nsoromma:before {
+  content: "\35";
+}
+.icon-nkyimu:before {
+  content: "\36";
+}
+.icon-nkyinkyim:before {
+  content: "\37";
+}
+.icon-owo-foro-adobe:before {
+  content: "\38";
+}
