@@ -6,7 +6,7 @@
 <p>React Component for these symbols can be found <a href="https://github.com/JacobTheEvans/react-adinkra">here</a></p>
 
 ## How to use it
-<p>To use the Adinkra in a website simply include the CDN link in the head of your HTML</p>
+<p>To use the Adinkra Symbols in a website simply include the CDN link in the head of your HTML</p>
 
 ```html
 <link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/b79018a0/src/adinkra.css">
