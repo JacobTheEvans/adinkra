@@ -5,7 +5,7 @@
 
 <p>React Module for these symbols can be found here</p>
 
-## Use
+## How to use it
 <p>To use the Adinkra in a website simply include the CDN link in the head of your HTML</p>
 
 ```html
