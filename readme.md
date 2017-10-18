@@ -2,10 +2,9 @@
 <p>This project was made to allow easy use of the West African Adinkra symbols in a website</p>
 
 <p>CDN link</p>
+
 ```html
-
 <link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/b79018a0/src/adinkra.css">
-
 ```
 
 <p>Documentation can be found here</p>
