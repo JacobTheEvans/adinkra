@@ -1,6 +1,11 @@
 # Adinkra Symbols Font
 <p>This project was made to allow easy use of the West African Adinkra symbols in a website</p>
 
+<p>CDN link</p>
+```
+https://cdn.rawgit.com/JacobTheEvans/adinkra/b79018a0/src/adinkra.css
+```
+
 <p>Documentation can be found here</p>
 
 <p>React Module for these symbols can be found here</p>
