@@ -9,7 +9,8 @@
 <p>To use the Adinkra Symbols in a website simply include the CDN link in the head of your HTML</p>
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/b79018a0/src/adinkra.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/JacobTheEvans/adinkra/15ed071d/src/adinkra.css">
+
 ```
 
 ## Examples
