@@ -38,9 +38,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-adinkrahene:before {
-  content: "\61";
-}
 .icon-akofen:before {
   content: "\62";
 }
@@ -161,7 +158,7 @@
 .icon-tamfo-bebre:before {
   content: "\4f";
 }
-.icon-war-hor:before {
+.icon-akoben:before {
   content: "\50";
 }
 .icon-nyame-nti:before {
@@ -175,12 +172,6 @@
 }
 .icon-nyame-ye-ohene:before {
   content: "\54";
-}
-.icon-wawa-aba:before {
-  content: "\55";
-}
-.icon-wo-nsa-da-mu-a:before {
-  content: "\56";
 }
 .icon-nyansapo:before {
   content: "\57";
@@ -220,4 +211,13 @@
 }
 .icon-owo-foro-adobe:before {
   content: "\38";
+}
+.icon-wo-nsa-da-mu-a:before {
+  content: "\61";
+}
+.icon-adinkrahene:before {
+  content: "\55";
+}
+.icon-wawa-aba:before {
+  content: "\56";
 }
