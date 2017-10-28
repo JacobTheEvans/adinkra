@@ -13,7 +13,7 @@
 
 ```
 
-<p>Use the 'icon' CSS prefix class then icon-'name of the icon'</p>
+<p>Then use the 'icon' CSS prefix class and add 'icon-name of the icon' to a div or i tag</p>
 
 ```html
 <i class="icon icon-akoben"></i>
