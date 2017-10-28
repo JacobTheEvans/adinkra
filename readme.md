@@ -13,6 +13,13 @@
 
 ```
 
+<p>Use the 'icon' CSS prefix class then icon-'name of the icon'</p>
+
+```html
+<i class="icon icon-akoben"></i>
+
+```
+
 ## Examples
 
 <p>Examples on how to use this library can be found in the example folder</p>
