@@ -13,7 +13,7 @@
 
 ```
 
-<p>Then use the 'icon' CSS prefix class and add 'icon-nameOfSymbol' to a div or i tag</p>
+<p>Then use the CSS prefix class 'icon' and add the desired icon using the 'icon-nameOfSymbol' class</p>
 
 ```html
 <i class="icon icon-akoben"></i>
